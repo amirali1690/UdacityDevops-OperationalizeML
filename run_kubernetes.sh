@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 dockerpath=amirali1690/udacity
-docker login --username=amirali1690 --password="sqZ86R9xTbAw)%T"
+docker login --username=amirali1690 --password="****"
 # Step 2
 kubectl run udacity -it --image=amirali1690/udacity --port=80
 

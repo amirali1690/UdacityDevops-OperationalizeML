@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/amirali1690/UdacityDevops-OperationalizeML/tree/main.svg?style=svg)](https://circleci.com/gh/amirali1690/UdacityDevops-OperationalizeML/tree/main)
 
 ## Project Overview
 

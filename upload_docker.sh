@@ -11,7 +11,7 @@ dockerpath=amirali1690/udacity
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker tag house-prediction:udacity amirali1690/udacity
-docker login --username=amirali1690 --password="sqZ86R9xTbAw)%T"
+docker login --username=amirali1690 --password="*****"
 
 # Step 3:
 # Push image to a docker repository
